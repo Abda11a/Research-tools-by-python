@@ -5,6 +5,7 @@ plays with tools
 
 * Language processing
 
-write function to count the number of times a unique word appears in a given string text
-use the Counter tool from the collections module to accomplish the same task
-read in a book from a file
+    1- write function to count the number of times a unique word appears in a given string text
+    2- use the Counter tool from the collections module to accomplish the same task
+    3- read in a book from a file
+    4- compute some basic word frequency statistics
